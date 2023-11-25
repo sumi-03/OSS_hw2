@@ -3,5 +3,6 @@ public class a{
 		System.out.println("2291010");
 		System.out.println("2291010");
 		System.out.println("2291010");
+		System.out.println("2291010");
 	}
 }
